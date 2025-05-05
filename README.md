@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Cindy Barasa👋</h1>
 
 <p align="center">
   🌍 A passionate learner on a mission to build tech that matters  
