@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Cindy Barasa👋</h1>
+<h1 align="center">Hi there, I'm Cindy 👋</h1>
 
 <p align="center">
   🌍 A passionate learner on a mission to build tech that matters  
@@ -58,6 +58,18 @@ I began this journey because I’m passionate about **creating tech solutions th
 - Data Analysis using **pandas**, **NumPy**, and **SQL**
 - Exploratory Data Analysis (EDA) and visualization
 - Collaborating on GitHub with real-world team practices
+
+---
+
+### 🌟 Featured Project
+
+#### 📘 [Super Metro - SACCO Hailing Service](https://github.com/nafulacindy/super-metro)
+
+A Laravel-based SACCO hailing service that allows users to book buses, track real-time routes, and make payments securely.  
+✨ **Built With**: Laravel (PHP), MySQL, HTML, CSS, JavaScript  
+📌 **Skills Applied**: Backend development, API design, relational databases, authentication, and real-time map integration  
+
+🚀 [View the repository](https://github.com/nafulacindy/super-metro)
 
 ---
 
